@@ -9,7 +9,7 @@
 
 **🛠️ smaller stuff on here**
 
-- 🧾 **construction-ap-automation**: we went through accountant after accountant and the invoices kept piling up, so I stopped hiring and started building. it reads, codes, and routes our bills now. almost **$5M** through it since July, and climbing every week 📈
+- 🧾 **[construction-ap-automation](https://github.com/Tranman324/construction-ap-automation)**: we went through accountant after accountant and the invoices kept piling up, so I stopped hiring and started building. it reads, codes, and routes our bills now. almost **$5M** through it since July, and climbing every week 📈
 - 🦉 **[apm-overwatch](https://github.com/Tranman324/apm-overwatch)**: makes my AI coding agents show their work before any of it counts.
 - 🔋 **[ai-headroom](https://github.com/Tranman324/ai-headroom)**: a Mac menu-bar app that warns you before Claude or Codex cuts you off. 140 tests, because I don't trust myself.
 - 🎙️ **[sitescribe](https://github.com/Tranman324/sitescribe)**: talk into your phone, get clean notes back without the subscription.
